@@ -1,4 +1,4 @@
-# gender_prediction_friendship
+# gender_prediction
 Petri Peter and
 Szakal Gergely Finance Master students at
 Corvinus University of Budapest on 
